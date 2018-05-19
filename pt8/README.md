@@ -2,3 +2,4 @@
 
 ###Github
 1.git clone https://github.com/shararin/tcc.git
+2.membuat direktori dan file
